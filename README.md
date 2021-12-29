@@ -53,7 +53,7 @@ install.packages("dplyr")
 7 QC処理後データのvariant calling\
 8 関連解析\
 9 解析結果の表示\
-10 系統樹解析\
+10 系統樹解析
 
 ## 講義資料・チュートリアル
 TBD
