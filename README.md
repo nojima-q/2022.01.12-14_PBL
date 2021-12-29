@@ -18,7 +18,7 @@
 
 
 ## 環境
-OS：Windows、Mac、Linux
+OS：Mac（推奨）、Linux、Windows
 
 ## 使用するツール
 ### 端末上で操作
