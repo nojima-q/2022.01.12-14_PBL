@@ -29,7 +29,7 @@ bwa (http://bio-bwa.sourceforge.net/) \
 GATK (https://gatk.broadinstitute.org/hc/en-us) \
 Picard (https://broadinstitute.github.io/picard/) \
 VCFtools (http://vcftools.sourceforge.net/) \
-PLINK (https://www.cog-genomics.org/plink/) \
+PLINK (https://www.cog-genomics.org/plink/)
 ### RStudio上で操作
 ```
 install.packages("BiocManager")
@@ -49,11 +49,11 @@ install.packages("dplyr")
 3	アダプターの除去およびリードのトリミング\
 4	リファレンスゲノムファイルの取得\
 5	リファレンスゲノムへのマッピング\
-6	マッピングデータの各種QC処理
-7 QC処理後データのvariant calling
-8 関連解析
-9 解析結果の表示
-10 系統樹解析
+6	マッピングデータの各種QC処理\
+7 QC処理後データのvariant calling\
+8 関連解析\
+9 解析結果の表示\
+10 系統樹解析\
 
 ## 講義資料・チュートリアル
 TBD
