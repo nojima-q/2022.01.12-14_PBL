@@ -18,7 +18,8 @@
 
 
 ## 環境
-OS：Mac（推奨）、Linux、Windows
+OS：Mac（推奨）、Linux、Windows\
+※チュートリアルは、Mac環境を前提として記載しています。
 
 ## 使用するツール
 ### 端末上で操作
