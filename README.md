@@ -30,6 +30,7 @@ bwa (http://bio-bwa.sourceforge.net/) \
 Samtools (http://www.htslib.org/) \
 GATK (https://gatk.broadinstitute.org/hc/en-us) \
 Picard (https://broadinstitute.github.io/picard/) \
+VCFtools (http://vcftools.sourceforge.net/) \
 PLINK (https://www.cog-genomics.org/plink/)
 ### RStudio上で操作
 ```
