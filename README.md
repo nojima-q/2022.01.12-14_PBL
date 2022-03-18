@@ -27,7 +27,7 @@ SRA Toolkit (https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit)
 FastQC (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) \
 Trimmomatic (http://www.usadellab.org/cms/?page=trimmomatic) \
 bwa (http://bio-bwa.sourceforge.net/) \
-Samtools (http://www.htslib.org/)
+Samtools (http://www.htslib.org/)\
 GATK (https://gatk.broadinstitute.org/hc/en-us) \
 Picard (https://broadinstitute.github.io/picard/) \
 PLINK (https://www.cog-genomics.org/plink/)
