@@ -34,10 +34,9 @@ VCFtools (http://vcftools.sourceforge.net/) \
 PLINK (https://www.cog-genomics.org/plink/)
 ### RStudio上で操作
 ```
-install.packages("BiocManager")
-install.packages("ggplot2")
-install.packages("reshape2")
 install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("ggrepel")
 ```
 
 ## スケジュール
