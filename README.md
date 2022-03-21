@@ -53,7 +53,7 @@ install.packages("ggrepel")
 5	リファレンスゲノムへのマッピング\
 6	マッピングデータの各種QC処理\
 7 QC処理後データのvariant calling\
-8 GWASとその結果をマンハッタンプロットで示す
+8 GWASとその結果をManhattan plotで示す
 
 ### 第二部（担当講師：大阪大学 下川）
 系統樹解析
