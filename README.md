@@ -16,12 +16,12 @@
 コンピュータ１台
 
 
-## 環境
+## 環境 (第一部用)
 OS：Mac（推奨）、Linux、Windows\
 ※チュートリアルは、Mac環境を前提として記載していますので、Macユーザーはほぼチュートリアルのコピーアンドペーストで実行できます。\
 ※Windows・Linuxの場合は書き換えが必要ですので、できるだけMacで実行して下さい。
 
-## 使用するツール
+## 使用するツール (第一部用)
 ### 端末上で操作
 SRA Toolkit (https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit) \
 FastQC (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) \
