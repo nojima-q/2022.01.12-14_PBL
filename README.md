@@ -2,7 +2,7 @@
 
 ## 日時
 
-2022年3月22日(火)、23日(水)、24日(木)のいずれか２日間の13時−17時
+2022年3月22日(火)、24日(木)の13時−17時
 
 
 ## 場所
@@ -58,4 +58,7 @@ install.packages("ggrepel")
 ### 第二部（担当講師：大阪大学 下川）
 系統樹解析
 ## 講義資料・チュートリアル
+### 第一部
 https://github.com/nojima-q/2022.01.12-14_PBL_analysis
+### 第二部
+https://github.com/kshimokawa/Can202201-1/blob/main/README.md
